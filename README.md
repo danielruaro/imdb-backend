@@ -20,6 +20,7 @@ npm install
 npm run start
 ```
 
+Now, you need to run the frontend, *[Click here to access frontend repository](https://github.com/danielruaro/imdb-frontend)
 
 # Backend 
 * [Express](https://expressjs.com/) - To build HTTP server
